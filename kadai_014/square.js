@@ -1,6 +1,6 @@
 const nn =(nHiki) =>{
   
-  console.log(nHiki*nHiki);
+  return nHiki*nHiki;
 
 }
-nn(10);
+console.log(nn(10));
